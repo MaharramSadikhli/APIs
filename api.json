@@ -1,0 +1,136 @@
+[
+    {
+        "temprature": [
+            {
+                "idTemp": "1",
+                "temp": "7"
+            },
+            {
+                "idTemp": "2",
+                "temp": "17"
+            },
+            {
+                "idTemp": "3",
+                "temp": "4"
+            },
+            {
+                "idTemp": "4",
+                "temp": "20"
+            },
+            {
+                "idTemp": "5",
+                "temp": "29"
+            }
+        ],
+        "humidity": [
+            {
+                "idHum": "1",
+                "hum": "25%"
+            },
+            {
+                "idHum": "2",
+                "hum": "55%"
+            },
+            {
+                "idHum": "3",
+                "hum": "45%"
+            },
+            {
+                "idHum": "4",
+                "hum": "65%"
+            },
+            {
+                "idHum": "5",
+                "hum": "75%"
+            }
+        ],
+        "wind": [
+            {
+                "idWind": "1",
+                "windVal": "11km/s"
+            },
+            {
+                "idWind": "2",
+                "windVal": "12km/s"
+            },
+            {
+                "idWind": "3",
+                "windVal": "10km/s"
+            },
+            {
+                "idWind": "4",
+                "windVal": "15km/s"
+            },
+            {
+                "idWind": "5",
+                "windVal": "21km/s"
+            }
+        ],
+        "power": [
+            {
+                "idPower": "1",
+                "powerVal": "245w"
+            },
+            {
+                "idPower": "2",
+                "powerVal": "345w"
+            },
+            {
+                "idPower": "3",
+                "powerVal": "255w"
+            },
+            {
+                "idPower": "4",
+                "powerVal": "265w"
+            },
+            {
+                "idPower": "5",
+                "powerVal": "500w"
+            }
+        ],
+        "people": [
+            {
+                "idPeople": "1",
+                "peopleVal": "2"
+            },
+            {
+                "idPeople": "2",
+                "peopleVal": "5"
+            },
+            {
+                "idPeople": "3",
+                "peopleVal": "7"
+            },
+            {
+                "idPeople": "4",
+                "peopleVal": "8"
+            },
+            {
+                "idPeople": "5",
+                "peopleVal": "12"
+            }
+        ],
+        "connection": [
+            {
+                "idCon": "1",
+                "statusCon": "true"
+            },
+            {
+                "idCon": "2",
+                "statusCon": "true"
+            },
+            {
+                "idCon": "3",
+                "statusCon": "false"
+            },
+            {
+                "idCon": "4",
+                "statusCon": "true"
+            },
+            {
+                "idCon": "5",
+                "statusCon": "false"
+            }
+        ]
+    }
+]
