@@ -4,23 +4,23 @@
         "temprature": [
             {
                 "idTemp": "1",
-                "temp": "7"
+                "temp": "7 °C"
             },
             {
                 "idTemp": "2",
-                "temp": "17"
+                "temp": "17 °C"
             },
             {
                 "idTemp": "3",
-                "temp": "4"
+                "temp": "4 °C"
             },
             {
                 "idTemp": "4",
-                "temp": "20"
+                "temp": "20 °C"
             },
             {
                 "idTemp": "5",
-                "temp": "29"
+                "temp": "29 °C"
             }
         ]
     },
@@ -54,23 +54,23 @@
         "wind": [
             {
                 "idWind": "1",
-                "windVal": "11km/s"
+                "windVal": "11 km/s"
             },
             {
                 "idWind": "2",
-                "windVal": "12km/s"
+                "windVal": "12 km/s"
             },
             {
                 "idWind": "3",
-                "windVal": "10km/s"
+                "windVal": "10 km/s"
             },
             {
                 "idWind": "4",
-                "windVal": "15km/s"
+                "windVal": "15 km/s"
             },
             {
                 "idWind": "5",
-                "windVal": "21km/s"
+                "windVal": "21 km/s"
             }
         ]
     },
